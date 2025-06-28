@@ -1,1 +1,1 @@
-# compilador=sbas
+# compilador-sbas
