@@ -1,1 +1,1 @@
-# galaxy-edge
+# compilador=sbas
